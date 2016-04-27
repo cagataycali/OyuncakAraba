@@ -1,0 +1,12 @@
+c:\users\çağatay\documents\visual studio 2015\Projects\OyuncakAraba\OyuncakAraba\bin\Debug\OyuncakAraba.exe.config
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\OyuncakAraba\OyuncakAraba\bin\Debug\OyuncakAraba.exe
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\OyuncakAraba\OyuncakAraba\bin\Debug\OyuncakAraba.pdb
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\OyuncakAraba\OyuncakAraba\obj\Debug\OyuncakAraba.csprojResolveAssemblyReference.cache
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\OyuncakAraba\OyuncakAraba\obj\Debug\OyuncakAraba.exe
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\OyuncakAraba\OyuncakAraba\obj\Debug\OyuncakAraba.pdb
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\14253019HW2\OyuncakAraba\bin\Debug\OyuncakAraba.exe.config
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\14253019HW2\OyuncakAraba\obj\Debug\OyuncakAraba.exe
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\14253019HW2\OyuncakAraba\obj\Debug\OyuncakAraba.pdb
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\14253019HW2\OyuncakAraba\bin\Debug\OyuncakAraba.exe
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\14253019HW2\OyuncakAraba\bin\Debug\OyuncakAraba.pdb
+C:\Users\Çağatay\Documents\Visual Studio 2015\Projects\14253019HW2\OyuncakAraba\obj\Debug\OyuncakAraba.csprojResolveAssemblyReference.cache
